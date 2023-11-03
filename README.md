@@ -1,3 +1,5 @@
+# this repo was created using the template at https://github.com/franneck94/CppProjectTemplate  20231103
+
 # Template For C++ Projects
 
 ![C++](https://img.shields.io/badge/C%2B%2B-11%2F14%2F17%2F20%2F23-blue)
